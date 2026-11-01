@@ -1,0 +1,6 @@
+{
+  "name": "Atelier Noir: Virtual Stylist",
+  "description": "AI-powered wardrobe stylist that turns difficult-to-match statement pieces into complete flat-lay outfits for Casual, Business, and Night Out.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
