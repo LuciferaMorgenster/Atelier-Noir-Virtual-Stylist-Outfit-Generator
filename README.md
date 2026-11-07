@@ -4,7 +4,7 @@ An AI-powered luxury editorial wardrobe stylist that solves the *"I don't know w
 
 ---
 
-## 💖 Atelier Noir: Virtual Stylist & Outfit Generator
+## 💖 Sponsor Atelier Noir: Virtual Stylist & Outfit Generator
 
 Atelier Noir: Virtual Stylist & Outfit Generator is an open-source project built with passion and dedication. Want to support the continued development of this project? You can!
 
