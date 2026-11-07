@@ -4,6 +4,24 @@ An AI-powered luxury editorial wardrobe stylist that solves the *"I don't know w
 
 ---
 
+## 💖 Atelier Noir: Virtual Stylist & Outfit Generator
+
+Atelier Noir: Virtual Stylist & Outfit Generator is an open-source project built with passion and dedication. Want to support the continued development of this project? You can!
+
+**Sponsor this project by making a donation via PayPal:**
+
+<div align="center">
+
+### ☕ [Donate via PayPal](https://paypal.me/luciferamorgenster)
+
+📧 **PayPal:** `luciferamorgenster@gmail.com`
+
+</div>
+
+Every donation, big or small, helps keep Ivory Tower BBS alive, fund new features, and support ongoing development. Thank you for your generosity! 🙏
+
+---
+
 ## Key Features
 
 - **Multimodal Garment DNA Analysis**:
