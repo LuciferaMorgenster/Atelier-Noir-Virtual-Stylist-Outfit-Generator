@@ -143,3 +143,18 @@ npm start
    - Click **Render Photorealistic Flat-Lay** to generate an AI studio photograph.
    - Use the **Prompt Studio** to modify specific pieces or aesthetics using natural language.
    - Click the image or the expand icon to view full resolution or download.
+
+---
+
+<div align="center">
+
+### 💖 Support Atelier Noir: Virtual Stylist & Outfit Generator
+
+This project is open-source and built with love.\
+Help keep the project alive and fund its continued development!
+
+**[☕ Donate via PayPal — luciferamorgenster@gmail.com](https://paypal.me/luciferamorgenster)**
+
+Thank you for your support! 🙏
+
+</div>
